@@ -130,8 +130,6 @@ arjun = {
   <img src="https://tryhackme-badges.s3.amazonaws.com/Alphaq.png" alt="TryHackMe Badge" />
 </div>
 
-> ⚠️ **Note**: Replace `khuranaarjun` above with your exact TryHackMe username to activate the badge.
-
 ---
 
 ## 📈 Contribution Activity
